@@ -209,7 +209,7 @@ def game_is_playing(board, player_letter, computer_letter, turn):
 
 if __name__ == "__main__":
 
-  print('Welcome to Tic Tac Toe!')
+  print('Welcome to  Marios refactored Tic Tac Toe!')
 
   while True:
     board, player_letter, computer_letter, turn = board_setup()
